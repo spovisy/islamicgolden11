@@ -1,0 +1,14 @@
+body{
+    background-color:blue;
+    color: white;
+}
+img{
+    border-radius: 40px;
+    width: 15%;
+    height: fit-content;
+ flex-wrap: nowrap;   
+}
+a{
+    color: rgb(15, 15, 196) (243, 243, 247);
+    background-color:white;
+}
